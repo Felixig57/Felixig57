@@ -56,14 +56,6 @@ Actualmente enfocado en desarrollo backend con Java y Spring, así como en el de
 
 ---
 
-## 📌 Proyecto destacado
-
-### 🚗 Gestión de Vehículos *(Próximamente)*
-Sistema para administrar vehículos, información, mantenimiento y más.  
-Será uno de mis primeros proyectos formales en GitHub.
-
----
-
 ## 🌱 Actualmente aprendiendo
 - Spring Boot  
 - Programación Backend  
